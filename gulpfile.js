@@ -9,7 +9,7 @@ var gulp = require('gulp'),
 gulp.task('default', function() {
   
   // easier to read variable
-  var themeName = 'expanse';
+  var themeName = 'apex';
   
   // less
   gulp.src('./assets/less/' + themeName + '.less')

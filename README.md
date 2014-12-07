@@ -1,7 +1,7 @@
-theme-expanse
-=============
+theme-apex
+==========
 
-The official repository for our default theme, Expanse. Fork this to use it as a boilerplate.
+The official theme repo for Apex. Fork this to use it as a boilerplate.
 
 ## Getting Started
 
